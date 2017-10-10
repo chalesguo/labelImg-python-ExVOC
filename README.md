@@ -15,16 +15,16 @@ In ExVOC, Well-known text (WKT) is used to represent the polygon of image object
 
 Graph-cut algorithm is used to optimize the polygon of image object.
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo1.png
+.. image:: https://raw.githubusercontent.com/chalesguo/labelImg-python-ExVOC/master/demo/demo1.png
      :alt: Demo Image
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo2.png
+.. image:: https://raw.githubusercontent.com/chalesguo/labelImg-python-ExVOC/master/demo/demo2.png
      :alt: Demo Image
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.png
+.. image:: https://raw.githubusercontent.com/chalesguo/labelImg-python-ExVOC/master/demo/demo3.png
      :alt: Demo Image
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.png
+.. image:: https://raw.githubusercontent.com/chalesguo/labelImg-python-ExVOC/master/demo/demo3.png
      :alt: Demo Image
 
 Installation
@@ -34,7 +34,7 @@ Similar to LabelImg
 
 
 License
-~~~~~~~
+------------------
 
 Free software: MIT license
 
